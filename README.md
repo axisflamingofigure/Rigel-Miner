@@ -106,4 +106,4 @@ Rigel Miner provides a command-line approach to cryptocurrency mining on NVIDIA 
 
 Reliable operation requires more than launching the program. Users should verify that the intended GPU is detected, the miner connects to the correct pool, accepted shares are being submitted, temperatures remain within safe limits, and credentials are protected. The official project repository should be treated as the source of truth for current releases, supported algorithms, fees, and command-line options.
 
-Official project repository: https://github.com/rigelminer/rigel
+
